@@ -16,14 +16,7 @@
                     if (command == "End")
                     {
                         break;
-                    }
-                    else if (command == "Fire")
-                    {
-
-                    }
-                    
-
-                  
+                    }                                
                 }
 
                 string pokemonName = inputLine[1];
